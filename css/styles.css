@@ -1,0 +1,37 @@
+p {
+  color: darkblue;
+  font-size: 20px;
+  font-family: "Droid Sans";
+}
+button {
+  padding: 15px;
+  color: black;
+  background-color: goldenrod;
+  alignment: right;
+}
+body{
+  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1081358674%2Fvector%2Fcloseup-of-pink-azalea-flowers-with-green-foliage-and-half-open-bud-on-white-background.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DG71WRx-_GyO2u2SBYjws77o5akeSDe-czWA2Xn7D8II%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fazalea&tbnid=ve_7BnkLmk6krM&vet=12ahUKEwji2u74n878AhVTkScCHYmnAdMQMygTegUIARCNAg..i&docid=SP5dH2lZwH-9xM&w=612&h=612&q=azalea%20flower&client=firefox-b-lm&ved=2ahUKEwji2u74n878AhVTkScCHYmnAdMQMygTegUIARCNAg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+table{
+  width: 99%;
+  border-collapse: collapse;
+
+
+}
+th,td{
+  border: 2px solid black;
+  font-family: "Century Schoolbook L";
+  text-align: center;
+  padding: 5px;
+}
+tr:nth-child(odd){
+  background-color: antiquewhite;
+  color: #222222;
+}
+tr:nth-child(even){
+  background-color: white;
+  color: darkred;
+}

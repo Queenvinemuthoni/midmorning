@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <style>
+    label{
+      padding-bottom: 50px;
+      padding-top: 50px;
+      color: darkblue;
+    }
+    input{
+      border-bottom-style: solid;
+      border-left: none;
+      border-right: none;
+      border-top: none;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      color: midnightblue;
+    }
+
+  </style>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Form</title>
+</head>
+<body>
+<h2>eMobilis Mid-Morning Class</h2>
+<form action="">
+  <label for="Full Name">Full Name</label><br>
+  <input type="text" id="Full Name" placeholder="Enter Full Name"><br>
+  <label for="male">Male</label>
+  <input type="radio"id="male" name="gender">
+  <label for="female">Female</label>
+  <input type="radio"id="female" name="gender"><br>
+  <label for="email Address">email Address</label><br>
+  <input type="email" id="email Address" placeholder="Email Address"><br>
+  <label for="Phone Number">Phone Number</label><br>
+  <input type="text" id="Phone Number" placeholder="Your Phone Number"><br>
+  <label for="DOB">Date of Birth</label><br>
+  <input type="date"id="DOB"><br>
+  <label for="course">Course Taken</label><br>
+  <select name="course" id="course">
+  <option value="python">Python</option>
+  <option value="javascript">Javascript</option>
+  <option value="kotlin">Kotlin</option>
+  <option value="c++">C++</option>
+  <option value="java">Java</option>
+  <option value="ruby">Ruby</option>
+  <option value="html">HTML</option></select><br>
+  <label for="pic">Student Picture</label>
+  <input type="file"id="pic"><br>
+  <label for="Pass">Password</label><br>
+  <input type="password" id="Pass" name="password"><br>
+  <input type="submit"value="Register Here!">
+
+</form>
+
+</body>
+</html>
