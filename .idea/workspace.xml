@@ -4,7 +4,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbd6ed73-fa17-4bc6-b76a-0dd32726374b" name="Changes" comment="" />
+    <list default="true" id="bbd6ed73-fa17-4bc6-b76a-0dd32726374b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Untitled Folder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/About Us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Activities.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Divs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML.css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intakes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nairobi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Navigation bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Our contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Vancouver.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iFrame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ancient greek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/azalea.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beemer.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blue sapphire.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enroll_button.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/goodmorning-79.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/lavender.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pagani.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pictures for divs/banana.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pictures for divs/images.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pictures for divs/nairobi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pictures for divs/orange.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pictures for divs/oranges.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pictures for divs/passion.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pictures for divs/tesla.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pictures for divs/tokyo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/pictures for divs/vancouver.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ruby.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/study gif.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/wikipedia.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/yamaha.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/introduction.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/vendor/modernizr-3.11.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +94,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -63,6 +143,7 @@
       <workItem from="1674461303627" duration="866000" />
       <workItem from="1674552745513" duration="3527000" />
       <workItem from="1674636092490" duration="939000" />
+      <workItem from="1674806472874" duration="3059000" />
     </task>
     <servers />
   </component>
